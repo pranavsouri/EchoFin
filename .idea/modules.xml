@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Echo1.iml" filepath="$PROJECT_DIR$/Echo1.iml" />
+      <module fileurl="file://D:\Parkly\echo-kotlin\echo-kotlin\EchoMusik.iml" filepath="D:\Parkly\echo-kotlin\echo-kotlin\EchoMusik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\ADMIN\Downloads\Echo\Echo\app\app.iml" filepath="C:\Users\ADMIN\Downloads\Echo\Echo\app\app.iml" />
+      <module fileurl="file://C:\Users\ADMIN\Downloads\Echo\Echo\echo-kotlin.iml" filepath="C:\Users\ADMIN\Downloads\Echo\Echo\echo-kotlin.iml" />
+      <module fileurl="file://D:\shantanuAndroid\EchoMusik\echo-kotlin.iml" filepath="D:\shantanuAndroid\EchoMusik\echo-kotlin.iml" />
+    </modules>
+  </component>
+</project>

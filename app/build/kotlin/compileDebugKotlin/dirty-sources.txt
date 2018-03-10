@@ -1,0 +1,14 @@
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\database\EchoDatabase.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\adapters\MainScreenAdapter.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\models\Songs.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\fragments\AboutUsFragment.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\activties\MainActivity.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\fragments\SettingsFragment.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\fragments\MainScreenFragment.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\fragments\FavouriteFragment.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\adapters\FavouriteContentAdapter.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\adapters\NavigationDrawerAdapter.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\utils\CaptureBroadcast.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\fragments\SongPlayingFragment.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\activties\SplashActivty.kt
+C:\Users\prana\Desktop\Echo1\app\src\main\java\internshala\com\echomusik\utils\CurrentSongHelper.kt
